@@ -4,5 +4,5 @@
   "description": "An example package that displays \"Hello World!\" when run",
   "dependencies": [],
   "repo": "https://github.com/hzmone/examplexpu",
-  "install": "/usr/local/bin"
+  "install_directory": "/usr/local/bin"
 }
